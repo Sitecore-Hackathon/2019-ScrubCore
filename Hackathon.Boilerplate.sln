@@ -20,6 +20,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configuration", "Configurat
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{DAFED8F5-6CBD-4384-AAD6-DC3BCCF24911}"
 	ProjectSection(SolutionItems) = preProject
+		documentation\INSTALLATION.md = documentation\INSTALLATION.md
 		documentation\README.md = documentation\README.md
 	EndProjectSection
 EndProject
@@ -27,7 +28,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{D27C83
 	ProjectSection(SolutionItems) = preProject
 		documentation\images\deal-with-it.gif = documentation\images\deal-with-it.gif
 		documentation\images\hackathon.png = documentation\images\hackathon.png
+		documentation\images\itemA.png = documentation\images\itemA.png
+		documentation\images\itemB.png = documentation\images\itemB.png
+		documentation\images\itemC.png = documentation\images\itemC.png
+		documentation\images\itemD.png = documentation\images\itemD.png
 	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{80AFAF24-E49D-4378-B354-D984004B3C1C}"
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
